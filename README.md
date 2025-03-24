@@ -39,6 +39,8 @@ Additionally, **Tailwind CSS** is installed via npm to simplify styling and prov
 3. Compile Tailwind CSS:
     ```bash
     npx tailwindcss -i ./src/input.css -o ./static/css/output.css --watch
+    # or
+    npm run tw
     ```
 
 🌱 Project Structure
